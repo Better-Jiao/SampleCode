@@ -69,7 +69,7 @@ static const UIEdgeInsets defaultCollectionEdge = {10,10,10,10};
     return self.itemsArray;
     
 }
-/** 测试 */
+/** 测试测试 */
 
 
 /*
